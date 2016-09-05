@@ -1,6 +1,6 @@
 {
   "name": "React Youtube Client",
   "tagline": "Youtube Client created with ReactJS",
-  "body": "### A simple Youtube Client created with ReactJS, It uses lodash debounce to restrict page loads.\r\n\r\n![Screenshot](https://drive.google.com/open?id=0B_ZtWjliwK0hWE9tNzhob0pxQXM)\r\n",
+  "body": "# ReactYoutube Application\r\n\r\nCarved out of ReduxSimpleStarter this is a practice project I made while learning ReactJS.\r\n\r\n# Project Screenshot\r\n\r\n![React Youtube client Screenshot](https://drive.google.com/file/d/0B_ZtWjliwK0hWE9tNzhob0pxQXM/preview)\r\n\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
