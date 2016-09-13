@@ -5,3 +5,15 @@ npm-debug.log
 # IntelliJ
 *.iml
 /.idea
+
+# gh-pages
+/src
+/test
+.babelrc
+.tern-project
+*.log
+*.md
+*.config.js
+
+# OSX
+.DS_Store
